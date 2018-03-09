@@ -1,0 +1,22 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "darynJohnson.com"
+author = "Daryn Johnson"
+theme = "hugo-uno"
+copyright = "All thoughts are mine, and do not represent that of my employer"
+contentdir = "content"
+
+
+[indexes]
+category = "categories"
+tag = "tags"
+
+[Params]
+cover = "/images/bella-and-daddy.jpg"
+logo = "/images/daryn-laughter.jpg"
+AuthorName = "daryn"
+github = "dirtyonekanobi"
+twitter = "dirtyonekanobi"
+linkedin = "darynj"
+description = "Technology, Automation & Fatherhood...I don't blog enough"
+
